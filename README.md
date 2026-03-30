@@ -80,3 +80,13 @@ node stickerpackgenerator.js "a cute dog sticker" --token "$NETA_TOKEN"
 ```
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node stickerpackgenerator.js "A cute expressive sticker of {subject}, white background, bold clean outlines, chibi style, vibrant colors, sticker art, no text"
+```
+
+![Example output](https://oss.talesofai.cn/picture/69390ba8-b682-4c41-8389-99ab85d124c6.webp)
+
+> Prompt: *"A cute expressive sticker of {subject}, white background, bold clean outlines, chibi style, vibrant colors, sticker art, no text"*
